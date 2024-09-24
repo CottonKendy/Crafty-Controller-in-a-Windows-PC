@@ -86,14 +86,14 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
 
 # Enjoy!
 
-# Getting Tailscale to share your Minecraft Server to friends
+## Getting Tailscale to share your Minecraft Server to friends
 
-## Step 1: Go to your ***[Tailscale Home Page](https://login.tailscale.com/admin/machines)***
+### Step 1: Go to your ***[Tailscale Home Page](https://login.tailscale.com/admin/machines)***
 
-## Step 2: Locate the Machine your are running Crafty Controller with. Click on share and choose wether you would like to ***share it via email*** or ***copy share link***.
+### Step 2: Locate the Machine your are running Crafty Controller with. Click on share and choose wether you would like to ***share it via email*** or ***copy share link***.
   > I will be using ***copy share link*** on my test server and turning the ***reusable link*** on so I only need to share one link for all my friends.
 
-## Step 3: Copy your machine's Tailscale IP.
+### Step 3: Copy your machine's Tailscale IP.
 - Mine looks like this: 100.xxx.xxx.xxx
 - They will be using this ip address when they will try to join your minecraft server.
 - Enter the game. Go to Multiplayer and click add server.
@@ -103,4 +103,4 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
   ```
 - Click Join.
 
-# Enjoy Part 2!
+## Enjoy Part 2!
