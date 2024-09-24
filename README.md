@@ -42,7 +42,7 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
   ```
 - Click on ***Build Server***.
 
-## Step 5: Making sure that you are on the latest JDK Development Kit (23 as of now).
+## Step 5: Making sure that you are on the latest JDK Development Kit (23 as of time of writting).
 - Click here to go to the ***[Java Download Page](https://www.oracle.com/java/technologies/downloads)***.
 - Choose the appropriate version for you. Since I'm on Windows, I chose JDK 23 -> Windows -> x64 Installer
 - Install the file.
