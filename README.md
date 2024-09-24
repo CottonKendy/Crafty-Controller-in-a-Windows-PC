@@ -52,7 +52,7 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
 > Before clicking the start server button. Let's first configure our server.
 - Click on the server you just created.
 - Go to the ***Config*** tab and scroll down.
-- Click on the ***Server Auto Start*** then ***Save***.
+- Click on the ***Server Auto Start*** then ***Save***. So you won't need to go to the webpage everytime you want to start the server when you execute the ***crafty.exe***.
   > Optional: Turn the ***Server Crash Detection*** on.
 - Go back to the ***Terminal Tab*** and click on the ***Start*** button to start up your server.
 - Click ***Yes*** to agree to the ***Minecraft EULA***.
