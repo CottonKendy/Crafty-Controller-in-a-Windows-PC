@@ -95,7 +95,7 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
 
 ### Step 3: Copy your machine's Tailscale IP.
 - Mine looks like this: 100.xxx.xxx.xxx
-- They will be using this ip address when they will try to join your minecraft server.
+- Your friends will be using this ip address when they will try to join your minecraft server.
 - Enter the game. Go to Multiplayer and click add server.
   ```
   Server Name: Tailscale Test Server (name it however you like.)
