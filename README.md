@@ -82,7 +82,7 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
   Server Name: Test Server (name it however you like.)
   Server Address: 192.xxx.xxx.xxx:25565 (the ip address of the machine running Crafty Controller + the Minecraft Server port (25565))
   ```
-- Click on join
+- Click on join.
 
 # Enjoy!
 
