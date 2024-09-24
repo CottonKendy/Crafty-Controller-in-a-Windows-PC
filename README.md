@@ -66,7 +66,7 @@ Creating a Minecraft Server in your Windows PC via Crafty Controller and Tailsca
 - Go to the ***Files*** tab and locate the server.properties.
 - We will be changing some of our server's properties.
   ```
-  This are what I will be chaning, feel free to change the others as you see fit.
+  This are what I will be changing, feel free to change the others as you see fit.
     - difficulty=normal
     - level-name=test world
     - motd=My First Minecraft Test Server
